@@ -2,7 +2,7 @@
 
 ![Botão de Versão](https://img.shields.io/badge/Version-1.0-blue)   ![Python Version](https://img.shields.io/badge/Python-3.9-blue)  
 
-![Tela do jogo]()
+![Tela do jogo](https://github.com/joao-lucasilva/rock-paper-scissors/blob/master/assets/scrennshot.JPG)
 
 ## Sobre
 
@@ -18,8 +18,7 @@ Execute o arquivo:
 > python rock_papper_scissors.py
 
 ## Tecnologias
-Neste projeto foi utilizado:
-	- [Python3](https://docs.python.org/3/);
+Neste projeto foi utilizado: [Python3](https://docs.python.org/3/);
  
 ## Autor
 Desenvolvido por João Lucas da Silva.
